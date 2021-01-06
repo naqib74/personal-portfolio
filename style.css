@@ -52,7 +52,7 @@ h2{
     
     background-color:#d0d5df;
     float: left;
-    height: 95vh;
+    height: 97vh;
     width: 100%;
 }
 #header{
@@ -77,7 +77,7 @@ h2{
     border-radius: 14px;
 }
 .project img{
-    width: 340px;
+    width: 350px;
     height: 250px;
     padding: 10px 10px;
 }
@@ -92,7 +92,7 @@ h3{
 .skills-area{
     background-color: #d6cae08e;
     width: 100%;
-    height: 90vh;
+    height: 93vh;
 }
 .skills{
     box-shadow: 10px 10px 30px gray;
@@ -127,13 +127,13 @@ h3{
 #inquiry{
     float: left;
     margin-left: 450px;
-    margin-top: 260px;
+    margin-top: 230px;
     color: white;
 }
 .button-chat{
   float:left;
   margin-left: 800px;
-  margin-top: 260px;
+  margin-top: 100px;
   text-decoration: none;
   background: linear-gradient(57deg,#F76761,#FB7462);
   padding: 10px 20px;
